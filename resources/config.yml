@@ -1,0 +1,161 @@
+---
+########################
+#Settings RankList
+########################
+
+#Gunakan "§" Untuk Perwarnaan
+#Gunakan "\n" Untuk Lanjut Line
+
+#Form Title RankList
+RANKLIST: "§lRANKLIST"
+
+#Form RankList Content
+Content: "§aSelect Category :"
+
+#Form RankList Back
+BACK: "§cBACK\n§fTap To Exit"
+
+########################
+#BUTTON FORM
+########################
+
+SERVER-1: "§lSERVER-1"
+
+SERVER-2: "§lSERVER-2"
+
+SERVER-3: "§lSERVER-3"
+
+SERVER-4: "§lSERVER-4"
+
+########################
+#TITTLE
+########################
+
+#SERVER-1
+RANK1-TITTLE-SERVER-1: "§bRANKSATU"
+RANK2-TITTLE-SERVER-1: "§bRANKDUA"
+RANK3-TITTLE-SERVER-1: "§bRANKTIGA"
+RANK4-TITTLE-SERVER-1: "§bRANKEMPAT"
+RANK5-TITTLE-SERVER-1: "§bRANKLIMA"
+
+#SERVER-2
+RANK1-TITTLE-SERVER-2: "§bRANKSATU"
+RANK2-TITTLE-SERVER-2: "§bRANKDUA"
+RANK3-TITTLE-SERVER-2: "§bRANKTIGA"
+RANK4-TITTLE-SERVER-2: "§bRANKEMPAT"
+RANK5-TITTLE-SERVER-2: "§bRANKLIMA"
+
+#SERVER-3
+RANK1-TITTLE-SERVER-3: "§bRANKSATU"
+RANK2-TITTLE-SERVER-3: "§bRANKDUA"
+RANK3-TITTLE-SERVER-3: "§bRANKTIGA"
+RANK4-TITTLE-SERVER-3: "§bRANKEMPAT"
+RANK5-TITTLE-SERVER-3: "§bRANKLIMA"
+
+#SERVER-4
+RANK1-TITTLE-SERVER-4: "§bRANKSATU"
+RANK2-TITTLE-SERVER-4: "§bRANKDUA"
+RANK3-TITTLE-SERVER-4: "§bRANKTIGA"
+RANK4-TITTLE-SERVER-4: "§bRANKEMPAT"
+RANK5-TITTLE-SERVER-4: "§bRANKLIMA"
+
+########################
+#BUTTON RANK
+########################
+
+#SERVER-1
+RANK1-BUTTON-SERVER-1: "RankSatu\n§f Tap To View Features"
+RANK2-BUTTON-SERVER-1: "RankDua\n§f Tap To View Features"
+RANK3-BUTTON-SERVER-1: "RankTiga\n§f Tap To View Features"
+RANK4-BUTTON-SERVER-1: "RankEmpat\n§f Tap To View Features"
+RANK5-BUTTON-SERVER-1: "RankLima\n§f Tap To View Features"
+
+#SERVER-2
+RANK1-BUTTON-SERVER-2: "RankSatu\n§f Tap To View Features"
+RANK2-BUTTON-SERVER-2: "RankDua\n§f Tap To View Features"
+RANK3-BUTTON-SERVER-2: "RankTiga\n§f Tap To View Features"
+RANK4-BUTTON-SERVER-2: "RankEmpat\n§f Tap To View Features"
+RANK5-BUTTON-SERVER-2: "RankLima\n§f Tap To View Features"
+
+#SERVER-3
+RANK1-BUTTON-SERVER-3: "RankSatu\n§f Tap To View Features"
+RANK2-BUTTON-SERVER-3: "RankDua\n§f Tap To View Features"
+RANK3-BUTTON-SERVER-3: "RankTiga\n§f Tap To View Features"
+RANK4-BUTTON-SERVER-3: "RankEmpat\n§f Tap To View Features"
+RANK5-BUTTON-SERVER-3: "RankLima\n§f Tap To View Features"
+
+#SERVER-4
+RANK1-BUTTON-SERVER-4: "RankSatu\n§f Tap To View Features"
+RANK2-BUTTON-SERVER-4: "RankDua\n§f Tap To View Features"
+RANK3-BUTTON-SERVER-4: "RankTiga\n§f Tap To View Features"
+RANK4-BUTTON-SERVER-4: "RankEmpat\n§f Tap To View Features"
+RANK5-BUTTON-SERVER-4: "RankLima\n§f Tap To View Features"
+
+########################
+#FITUR RANK
+########################
+
+#SERVER-1
+FITUR-RANK1-SERVER-1: "RankSatu Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK2-SERVER-1: "RankDua Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK3-SERVER-1: "RankTiga Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK4-SERVER-1: "RankEmpat Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK5-SERVER-1: "RankLima Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+
+#SERVER-2
+FITUR-RANK1-SERVER-2: "RankSatu Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK2-SERVER-2: "RankDua Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK3-SERVER-2: "RankTiga Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK4-SERVER-2: "RankEmpat Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK5-SERVER-2: "RankLima Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+
+#SERVER-3
+FITUR-RANK1-SERVER-3: "RankSatu Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK2-SERVER-3: "RankDua Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK3-SERVER-3: "RankTiga Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK4-SERVER-3: "RankEmpat Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK5-SERVER-3: "RankLima Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+
+#SERVER-4
+FITUR-RANK1-SERVER-4: "RankSatu Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK2-SERVER-4: "RankDua Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK3-SERVER-4: "RankTiga Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK4-SERVER-4: "RankEmpat Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+FITUR-RANK5-SERVER-4: "RankLima Fitur\nPlugin By DghDeV\n§cEdit In Config.yml"
+
+########################
+#BUTTON BACK
+########################
+
+#SERVER-1
+BACK-SERVER-1: "§cBack\n§fTap To Back"
+RANK1-BACK-SERVER-1: "§cBack\n§fTap To Back"
+RANK2-BACK-SERVER-1: "§cBack\n§fTap To Back"
+RANK3-BACK-SERVER-1: "§cBack\n§fTap To Back"
+RANK4-BACK-SERVER-1: "§cBack\n§fTap To Back"
+RANK5-BACK-SERVER-1: "§cBack\n§fTap To Back"
+
+#SERVER-2
+BACK-SERVER-2: "§cBack\n§fTap To Back"
+RANK1-BACK-SERVER-2: "§cBack\n§fTap To Back"
+RANK2-BACK-SERVER-2: "§cBack\n§fTap To Back"
+RANK3-BACK-SERVER-2: "§cBack\n§fTap To Back"
+RANK4-BACK-SERVER-2: "§cBack\n§fTap To Back"
+RANK5-BACK-SERVER-2: "§cBack\n§fTap To Back"
+
+#SERVER-3
+BACK-SERVER-3: "§cBack\n§fTap To Back"
+RANK1-BACK-SERVER-3: "§cBack\n§fTap To Back"
+RANK2-BACK-SERVER-3: "§cBack\n§fTap To Back"
+RANK3-BACK-SERVER-3: "§cBack\n§fTap To Back"
+RANK4-BACK-SERVER-3: "§cBack\n§fTap To Back"
+RANK5-BACK-SERVER-3: "§cBack\n§fTap To Back"
+
+#SERVER-4
+BACK-SERVER-4: "§cBack\n§fTap To Back"
+RANK1-BACK-SERVER-4: "§cBack\n§fTap To Back"
+RANK2-BACK-SERVER-4: "§cBack\n§fTap To Back"
+RANK3-BACK-SERVER-4: "§cBack\n§fTap To Back"
+RANK4-BACK-SERVER-4: "§cBack\n§fTap To Back"
+RANK5-BACK-SERVER-4: "§cBack\n§fTap To Back"
+---
